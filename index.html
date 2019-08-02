@@ -14,40 +14,41 @@
     
     <main>
         <header>
-          
           <nav>
               <h2 class="hidden">Navigation</h2>
-                <button><img src="images/Home_button.png" alt="homeButton"></button>
+              <button>
+                <a href="index.html">
+                <img src="images/homeButton.png" alt="homeButton">  
+                </a>
+              </button>
           </nav>
         </header>
         
         <section id="column2">
-           <h1 class="hidden">Photo</h1>
-             <img src="images/home1.jpg">
+          <h1 class="hidden">Photo</h1>
+          <img src="images/home1.jpg" alt="home" height="800" id="photo">
         </section>
         
         <section id="column3">
-           <h2 class="hidden">Details</h2>
+          <h2 class="hidden">Details</h2>
 
-           <div id="redName">
-              <h2>TEAM BIO</h2>
-           </div>
+          <div id="redName">
+            <h2>TEAM BIO</h2>
+          </div>
 
-            <div id="details">
-            <h3>CREATIVITY IS INTELLIGENCE HAVING FUN</h3>
-             <P>Young and passionate woman who love creativity and new projects.<br>
-                We have been working together since 2019.<br>
-                Media artists specialise in website developing and designing.</P>
-           </div>
+          <div id="details">
+            <h3 class = "nameCon"></h3>
+            <p class = "detailsCon"></p>
+          </div>
 
-           <div id="meetUp">
-            <button> <img src="images/meetMeg.png" alt="meetButton"> </button>
-            <button> <img src="images/meetDaf.png" alt="meetButton"> </button>
-           </div>
+          <div id="meetUp">
+            <button data-arrayref="0"><img src="images/meetMeg.png" alt="meetButton"></button>
+            <button data-arrayref="1"><img src="images/meetDaf.png" alt="meetButton"></button>
+          </div>
 
         </section>
 
     </main>
-
+    <script src="js/script.js"></script>
 </body>
 </html>
