@@ -6,7 +6,9 @@
 		bioButton = document.querySelectorAll("#meetUp button");
 
 	const bioDetails = 
-		  ["Megan, add your bio here", 
+
+		  ["Megan grew up thinking she would be a lawyer but fell in love with media design on the way. Well, that’s life. She loves yellow and also a very cheerful person to work with ( most of the time). Megan is also a perfectionist. That’s stressful but also means your projects are best taken care of.", 
+
 		  "Interactive Media Design student at Fanshawe College. Aspires to be a developer/designer or a bubble tea shop owner. Loves soft toys, pancakes, bubble tea, and pillows. Dislikes public attention, back pain, migraines, and waking up anytime before 9AM."];
 		  activePerson = ["MEGAN NGUYEN", "DAFFODIL HO"];
 		  imageSource = [
