@@ -1,4 +1,4 @@
-# Nguyen_Ho_1056_Project3
+# TEAM BIO PAGE
 Bio project including 1 index page and 2 details pages.
 
 ## Authors
