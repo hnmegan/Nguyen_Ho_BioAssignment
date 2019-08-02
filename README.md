@@ -8,7 +8,7 @@ Bio project including 1 index page and 2 details pages.
 ## Built with
 * HTML
 * CSS
-*JS
+* JS
 ## Typography
 * Type Font: Bangla MN
 * Font size:
